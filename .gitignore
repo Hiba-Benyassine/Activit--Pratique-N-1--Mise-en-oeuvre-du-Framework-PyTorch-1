@@ -1,2 +1,6 @@
 data/
 .jupyter_runtime/
+.venv/
+*.pth
+__pycache__/
+.ipynb_checkpoints/
